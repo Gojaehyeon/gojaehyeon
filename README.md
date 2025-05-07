@@ -11,3 +11,5 @@
 ## 📫 Contact Me
 - ✉️ Email: abr0402@naver.com
 - 🌐 [My Website](https://naver.com)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
