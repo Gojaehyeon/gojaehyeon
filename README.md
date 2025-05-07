@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Go
 
-<!--
-**Gojaehyeon/gojaehyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 iOS Developer & UX Designer  
+💡 Currently building [RefreshGo](https://github.com/gojaehyeon/refreshGo)  
+🚀 Dreaming of working in Silicon Valley
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Swift, SwiftUI, Firebase
+- Figma, Notion, ChatGPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- ✉️ Email: abr0402@naver.com
+- 🌐 [My Website](https://naver.com)
