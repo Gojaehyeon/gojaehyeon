@@ -6,7 +6,7 @@
 
 ## 🛠 Tech Stack
 - Swift, SwiftUI, Firebase
-- Figma, Notion, ChatGPT
+- Figma, Notion
 
 ## 📫 Contact Me
 - ✉️ Email: abr0402@naver.com
