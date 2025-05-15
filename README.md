@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Go
 
 🎯 iOS Developer & UX Designer  
-💡 Currently building [RefreshGo](https://github.com/gojaehyeon/refreshGo)  
+💡 Currently building [DisplayGo](https://github.com/gojaehyeon/DisplayGo)  
 🚀 Dreaming of working in Silicon Valley
 
 ## 🛠 Tech Stack
